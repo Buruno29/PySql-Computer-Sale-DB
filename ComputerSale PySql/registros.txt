@@ -1,0 +1,27 @@
+Exemplos de registros, eles são bem simples para este trabalho, mas poderiam ser incrementados 
+na necessidade de uma database mais complexa.
+Register Samples, they are quite simple for this small college asignment, but they can be improved 
+should you need a more robust and specific database.
+
+these insertions are one by one, separated by the '|'
+
+customer:
+
+Alberto Tavares| Rio De Janeiro Av Meier| Brasil| 5521985295564
+Marcos Silva| São Paulo Rua Augusta| Brasil| 5518948485385
+
+
+produto:
+
+PC Gamer Intel | proc. i7, rtx 3060, ssd 1T, 16G Ram,b760m plus | 3900 | 200
+Pc Gamer AMD | proc. r7, rtx 3060, ssd 1T, 16 G Ram, b550m plus | 3600 | 300
+
+compras:
+1 | Deixar na portaria| Processando | 2021/10/12 | 2021/12/12 | 2021/10/17
+2 | Preferir a entrega final pela manhã| Pago | 2022/02/09 | 2022/04/09 | 2022/02/14
+
+
+compras detalhe:
+
+1 | 1 | 2 | 3900 | 1
+2 | 2 | 1 | 3600 | 2
